@@ -158,3 +158,8 @@ zhipuai
 zipp
 zstandard
 langchain-community
+transformers
+vllm
+modelscope
+sentence-transformers
+langchain-chroma
